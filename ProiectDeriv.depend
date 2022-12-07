@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1610485187 source:d:\proiecte\proiectderiv\main.cpp
+	<stdio.h>
+	<cstring>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<graphics.h>
+	<winbgim.h>
+	<fstream>
+
+1610485187 source:d:\proiecte\b2_dideabogdanmarius_costinmihnearadu_deriv\proiectderiv\main.cpp
+	<stdio.h>
+	<cstring>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<graphics.h>
+	<winbgim.h>
+	<fstream>
+
